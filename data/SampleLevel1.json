@@ -1,18 +1,14 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "name": "Unnerfed Yatagarasu",
+    "author": "",
+    "creators": ["ViPriN, AncientAnubis, Jeyzor, WOOGI1411, Findexi, Rek3dge, Weoweoteo, Anthrax, AbstractDark, Giron, Aeidux, xcy7, Vermillion, Rustam, Zelda, Michigun, Luneth, Hinds, Evasium, Loogiah, Csx42Gaming, FunnyGame, Riot, TrusTa"],
+    "verifier": "ZZoink",
+    "verification": "https://www.youtube.com/embed/qSdyb-Ft1tk",
+    "percentToQualify": 350,
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
         }
     ]
 }
