@@ -1,0 +1,18 @@
+{
+    "id": 88216956,
+    "name": "Unnerfed True Innards",
+    "author": "eandis",
+    "creators": ["Kaito"],
+    "verifier": "eandis",
+    "verification": "https://www.youtube.com/embed/_cquHx1jXAg",
+    "percentToQualify": "90",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "Microzz",
+            "link": "https://youtu.be/Je6tCXjr3GU",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
