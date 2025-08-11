@@ -127,9 +127,6 @@ export default {
                      <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.
                     </p>
-                     <p>
-                        No, I am not counting unnerfed sakupen circles cause that level looks impossible and i can't compare it to other levels, it will just make life more difficult.
-                    </p>
                 </div>
             </div>
         </main>
